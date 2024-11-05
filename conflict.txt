@@ -1,4 +1,11 @@
+HEAD
 aaa
 aaaaa
 
 aaa
+
+Git fail
+...
+aaaa
+Karla
+739f035042664311aa3a74f66e30053d37ac11a4
